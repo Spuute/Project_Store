@@ -56,6 +56,13 @@ Hard work have really paid out for me, this is a product that I have created aft
 
 # Screenshots
 
+![](Projektarbete%20Screenshots/Main.png)
+
+![](Projektarbete%20Screenshots/OrderPlaced.png)
+
+![](Projektarbete%20Screenshots/ChangeProduct.png)
+
+![](Projektarbete%20Screenshots/Discount.png)
 
 # Video Documentation (Swedish)
 
