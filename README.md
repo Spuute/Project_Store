@@ -37,7 +37,7 @@ And to fix this I had at least two options
 I wanted to learn Dictionaries so I went with that option. It would had saved me a lot of time going with the first option above, but hey - I want to learn as much as possible so **don´t always go the easy way** :) 
 I changed the deserialization to use Dict instead of List and for the Key I add Product, and for the value I add the amount, so when the user press + or minus button I increase / decrease the value by one. 
 
-When the application grew I got tired of writing ++ (increase), -- (decrease) so I changed it to linq
+When the application grew I got tired of writing ++ (increment), -- (decrement) so I changed it to linq
 ```csharp 
 Sum = cart.Sum(x => x.Key.Price * x.Value)
 ```
